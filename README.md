@@ -1,6 +1,7 @@
 
 # Useful TYPO3 PHPStorm LiveTemplates
 
+Feel free to add some more TYPO3 Live Templates to this repository!
 
 ### How to setup
 
