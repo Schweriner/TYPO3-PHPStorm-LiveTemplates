@@ -14,7 +14,7 @@ Generates injectMethods e.g. for controllers
 
 ```
 /**  
- * @param \Cosmoblonde\CbRating\Service\RatingActiveService $myService  
+ * @param \Vendor\Extension\Service\MyService $myService  
  */  
 public function injectMyVar(\Vendor\Extension\Service\MyService $myService) {  
   $this->myService = $myService;  
