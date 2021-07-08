@@ -8,7 +8,10 @@
  2. Add a new one and choose PHP as interpreter (see [Docs](https://www.jetbrains.com/help/phpstorm/tutorial-creating-live-templates.html)) 
 
 ## 1. InjectMethod Generator
+
 Generates injectMethods e.g. for controllers
+
+![InjectMethodGenerator](images/injectmethod.gif)
 
 **Example:**
 
